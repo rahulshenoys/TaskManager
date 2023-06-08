@@ -1,3 +1,4 @@
-# Simple Calaculator
-Its a simple calculator program designed using java programming language.The file Calculator3 contains the UI and API and MavenDemo file contains the same calculator program where the data is getting stored in the MySQL database.
-pom.xml file contains the connection between Maven java file and MySQL database.
+# Task Manager 
+Its a Simple Java programs where we can add,see, delete, update the tasks. 
+It will create a different files for the given path. The files are in .txt files which will give the different categories and different tasks 
+It will also log the different operations is being done inside the ledger file, it is shown inside the logger.java file 
